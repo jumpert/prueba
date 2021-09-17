@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpere\\OneDrive - Universidad Católica del Uruguay\\Juan\\Juan.csproj",
+      "projectUniqueName": "c:\\Users\\jpere\\OneDrive - Universidad Católica del Uruguay\\Juan\\prueba\\Juan\\Juan.csproj",
       "projectName": "Juan",
-      "projectPath": "C:\\Users\\jpere\\OneDrive - Universidad Católica del Uruguay\\Juan\\Juan.csproj",
+      "projectPath": "c:\\Users\\jpere\\OneDrive - Universidad Católica del Uruguay\\Juan\\prueba\\Juan\\Juan.csproj",
       "packagesPath": "C:\\Users\\jpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpere\\OneDrive - Universidad Católica del Uruguay\\Juan\\obj\\",
+      "outputPath": "c:\\Users\\jpere\\OneDrive - Universidad Católica del Uruguay\\Juan\\prueba\\Juan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jpere\\AppData\\Roaming\\NuGet\\NuGet.Config"
