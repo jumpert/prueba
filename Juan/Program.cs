@@ -6,8 +6,8 @@ namespace Juan
     {
         static void Main(string[] args) 
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("hello!!");
+            Console.WriteLine("hola World!");
+            Console.WriteLine("Explota");
         }
     }
 }
